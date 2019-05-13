@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+  }
+
+  div {
+    margin: auto;
+    margin-right: 5px;
+    background-color: brownl;
+    display: flex;
+    display: block;
+  }
+
+  .student-owner > img {
+    height: 100%;    
+    margin-top: 20px;
+    margin-left: 100px;
+  }
+
+  .student-owner > h1 {
+    margin-top: 80px;
+    padding-left: 120px;
+
+  }
